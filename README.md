@@ -3,7 +3,7 @@
 ## Following by this tutorial:
 https://www.youtube.com/watch?v=d6WC5n9G_sM
 
-## This tutorial setup a simple node js webserver to docker by Dockerfile and control it in kubernetes
+## This tutorial setup a simple node js webserver to docker by Dockerfile, push it to Docker Hub and control it in Kubernetes by command or file .yaml
 
 1. Build and Push image to docker hub
 `docker build . -t saxsax199502a/k8s-web-hello`
