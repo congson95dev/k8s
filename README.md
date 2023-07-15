@@ -84,5 +84,7 @@ Do this also for service.yaml file
 `kubectl delete all --all`
 
 11. Combine deployment.yaml and service.yaml to a file called k8s-web-to-nginx.yaml
+
 We gonna use that k8s-web-to-nginx.yaml to create another k8s deployment and service for k8s-web-to-nginx folder
+
 Do the same for nginx
